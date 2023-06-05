@@ -19,4 +19,4 @@ Goal Model, Use Case Diagram, Software Requirements Specification(SRS) and Softw
 
 ## Deployment
 
-[GitHub Pages](https://suman2799.github.io/ritch-bank/)
+[GitHub Pages](https://suman2799.github.io/fresh-basket/)
