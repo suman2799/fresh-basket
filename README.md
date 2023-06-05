@@ -1,7 +1,6 @@
 # Fresh Basket - An Online Grocery Purchase Application
 
-Web-based application having a user-friendly website with intuitive navigation and a responsive interface. Also implements shopping cart and checkout functionalities, optimizing the purchase process for seamless
-transactions.
+Web-based application having a user-friendly website with intuitive navigation and a responsive interface. Also implements shopping cart and checkout functionalities, optimizing the purchase process for seamless transactions.
 
 ## Installing
 
