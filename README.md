@@ -5,6 +5,7 @@ Web-based application having a user-friendly website with intuitive navigation a
 ## Installing
 
 * Install XAMPP and Start Apache and MySQL modules.
+* Import SQL ```fresh_basket.sql``` file in phpMyAdmin by creating a new database.
 * Download the Repository files into your local machine and open ```index.html``` in localhost.
 
 ## Documentation
